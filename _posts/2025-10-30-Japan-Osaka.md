@@ -1,3 +1,5 @@
+> Work in Progress. Damit hier mal wieder etwas erscheint, wird der Text nach und nach hinzugefügt.
+
 Als erste Stadt in der ich in Japan war, hatte Osaka doch einiges zu bieten.
 Es gab viele Eigenheiten zu sehen, die ich auch im Rest Japans immer wieder vorfinden sollte.
 
