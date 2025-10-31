@@ -11,7 +11,7 @@ Auf dem gleichen Berg gibt es unabhängig davon noch einen sehr speziellen Tempe
 
 Sehr wichtig in der Geschichte von Aizu ist natürlich die Burg, die nach dem Angriff wieder aufgebaut wurde.
 ![Burg]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204287.JPG)
-![Castle mit Akabeko]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/662044282JPG)
+![Castle mit Akabeko]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204282.JPG)
 
 Natürlich gibt es in Aizuwakamatsu auch wieder einen sehr schönen Garten mit etwas Geschichte.
 <!-- schöner Park in dem sowohl die Herrscher vor der Auslöschung der Samurai gegangen als auch die Angreifer während Krieg gegen Samurai... -->
@@ -32,11 +32,11 @@ Das ist zwar Eigentlich nur das erste Stock von einem Geschäft aber sehr witzig
 
 In der näheren Umgebung gibt es sowohl eine 57 m hohe Buddha Statue, in die man auf 40 m auch selbst hoch gehen kann und die von einem schönen Park umringt ist, als auch den dritt größten See Japans.
 ![Turm im Park]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204619.JPG)
-![Buddha Statue]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204628.JPG)
+![Buddha Statue mit Turm]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204628.JPG)
 ![Buddha Statue vor Berg]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204630.JPG)
 ![kleiner See mit Buddha Statue]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204625.JPG)
-![Schiff am See]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204464.JPG)
 ![großer See]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204454.JPG)
+![Schiff am See]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204464.JPG)
 
 Nachdem die Stadt von vielen stark bewachsenen Bergen und runden Hügel umschlossen ist, darf man hier sehr viel Bergauf Radeln oder durch Tunnel Zug fahren.
 Das hat aber natürlich auch den Vorteil eines sehr guten Ausblicks auf die Stadt.
