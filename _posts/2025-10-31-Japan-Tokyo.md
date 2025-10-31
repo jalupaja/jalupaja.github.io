@@ -21,7 +21,7 @@ Zur Burg konnte ich leider noch nicht aber das Gelände schaut von außen auch s
 
 ![Brücke über Burggraben]({{ site.url }}{{ site.baseurl }}/assets/images/Tokyo/66203451.JPG)
 
-Wie in jeder japanischen (groß) Stadt gibt es auch hier viele witzige Sachen zu sehen.
+Wie in jeder japanischen (Groß-)Stadt gibt es auch hier viele witzige Sachen zu sehen.
 
 ![Haus im stil eines Telefons]({{ site.url }}{{ site.baseurl }}/assets/images/Tokyo/66203499.JPG)
 
