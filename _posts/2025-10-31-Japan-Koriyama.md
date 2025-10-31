@@ -2,8 +2,8 @@ Koriyama hat ein paar schöne Parks und Tempel.
 
 ![Tempel]({{ site.url }}{{ site.baseurl }}/assets/images/Koriyama/66203640.JPG)
 ![Park mit kleinem See]({{ site.url }}{{ site.baseurl }}/assets/images/Koriyama/66203646.JPG)
-![Park mit großem See und Brücke]({{ site.url }}{{ site.baseurl }}/assets/images/Koriyama/66203646.JPG)
-![Rosen Park]({{ site.url }}{{ site.baseurl }}/assets/images/Koriyama/66203646.JPG)
+![Park mit großem See und Brücke]({{ site.url }}{{ site.baseurl }}/assets/images/Koriyama/66203655.JPG)
+![Rosen Park]({{ site.url }}{{ site.baseurl }}/assets/images/Koriyama/66203656.JPG)
 ![kleiner Tempel]({{ site.url }}{{ site.baseurl }}/assets/images/Koriyama/66203666.JPG)
 
 Es gibt sogar einen Pokémon-Spielplatz.
