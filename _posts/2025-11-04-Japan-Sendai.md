@@ -24,7 +24,7 @@ Neben einem Pokémon Center und einer riesigen Mall um den Hauptbahnhof gibt es 
 
 ![Pokémon Statue vor Mall]({{ site.url }}{{ site.baseurl }}/assets/images/Sendai/66204702.JPG)
 
-![Pokémon Center]({{ site.url }}{{ site.baseurl }}/assets/images/Sendai/66204702.JPG)
+![Pokémon Center]({{ site.url }}{{ site.baseurl }}/assets/images/Sendai/66204703.JPG)
 
 ![Straße bei Nacht]({{ site.url }}{{ site.baseurl }}/assets/images/Sendai/66204989.JPG)
 
@@ -40,8 +40,6 @@ Auf diesen gibt es mal einen kleinen Tempel, mal etwas Kunst oder sogar einmal s
 ![Aussicht auf kleine und größere Inseln]({{ site.url }}{{ site.baseurl }}/assets/images/Sendai/66204713.JPG)
 
 ![Aussicht auf kleine Inseln und Boote]({{ site.url }}{{ site.baseurl }}/assets/images/Sendai/66204721.JPG)
-
-![Aussicht auf Insel und Festland]({{ site.url }}{{ site.baseurl }}/assets/images/Sendai/66204729.JPG)
 
 ![Aussicht auf Insel und Festland]({{ site.url }}{{ site.baseurl }}/assets/images/Sendai/66204729.JPG)
 
@@ -71,10 +69,9 @@ Leider konnte ich den daneben liegenden Zuiganji Tempel nicht mehr bei Tageslich
 Solche Illumination Events gibt es in Japan relativ Häufig an verschiedenen Orten und nach dieser Erfahrung würde ich auch sagen, dass sie sich lohnen.
 In meinem Fall hat der kurz vorher gefallene Regen für schöne Spiegelungen gesorgt, die ich zumindest versucht habe, auf der Kamera aufzunehmen.
 Beim Eingang des Zuiganji Tempel wurde allen Besuchern ein farbiger Ballon als schöne Laterne gegeben, wodurch das durchgehen, die Wege nochmals stark verschönerte.
+<!-- TODO: Tempel beleuchtungen -->
 
 ![Lichter vor dem Eingang]({{ site.url }}{{ site.baseurl }}/assets/images/Sendai/66204806.JPG)
-
-![Lichter vor dem Eingang]({{ site.url }}{{ site.baseurl }}/assets/images/Sendai/66204879.JPG)
 
 ![Ballons]({{ site.url }}{{ site.baseurl }}/assets/images/Sendai/66204957.JPG)
 
@@ -86,6 +83,8 @@ Beim Eingang des Zuiganji Tempel wurde allen Besuchern ein farbiger Ballon als s
 
 ![Ballons auf dem Weg]({{ site.url }}{{ site.baseurl }}/assets/images/Sendai/66204824.JPG)
 
+![Ballons auf dem Weg]({{ site.url }}{{ site.baseurl }}/assets/images/Sendai/66204890.JPG)
+
 ![Beleuchteter Tempel]({{ site.url }}{{ site.baseurl }}/assets/images/Sendai/66204835.JPG)
 
 ![glitzernde Bäume]({{ site.url }}{{ site.baseurl }}/assets/images/Sendai/66204847.JPG)
@@ -94,7 +93,7 @@ Beim Eingang des Zuiganji Tempel wurde allen Besuchern ein farbiger Ballon als s
 
 ![glitzernde Bäume mit beleuchteten Hintergrund]({{ site.url }}{{ site.baseurl }}/assets/images/Sendai/66204868.JPG)
 
-![beleuchtete Bäume]({{ site.url }}{{ site.baseurl }}/assets/images/Sendai/66204870.JPG)
+![Mond-darstellung mit glitzernden Bäumen]({{ site.url }}{{ site.baseurl }}/assets/images/Sendai/66204870.JPG)
 
 ![Steingarten]({{ site.url }}{{ site.baseurl }}/assets/images/Sendai/66204879.JPG)
 
