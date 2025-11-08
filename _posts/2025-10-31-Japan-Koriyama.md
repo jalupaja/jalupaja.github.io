@@ -1,3 +1,5 @@
+> Update 2025-11-09: Sukagawa
+
 Koriyama hat ein paar schöne Parks und Tempel.
 
 ![Tempel]({{ site.url }}{{ site.baseurl }}/assets/images/Koriyama/66203640.JPG)
