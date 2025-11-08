@@ -69,7 +69,7 @@ Leider konnte ich den daneben liegenden Zuiganji Tempel nicht mehr bei Tageslich
 Solche Illumination Events gibt es in Japan relativ Häufig an verschiedenen Orten und nach dieser Erfahrung würde ich auch sagen, dass sie sich lohnen.
 In meinem Fall hat der kurz vorher gefallene Regen für schöne Spiegelungen gesorgt, die ich zumindest versucht habe, auf der Kamera aufzunehmen.
 Beim Eingang des Zuiganji Tempel wurde allen Besuchern ein farbiger Ballon als schöne Laterne gegeben, wodurch das durchgehen, die Wege nochmals stark verschönerte.
-<!-- TODO: Tempel beleuchtungen -->
+<!-- TODO: Tempel beleuchtungen, Musik -->
 
 ![Lichter vor dem Eingang]({{ site.url }}{{ site.baseurl }}/assets/images/Sendai/66204806.JPG)
 
