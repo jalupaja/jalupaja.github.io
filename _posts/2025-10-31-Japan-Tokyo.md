@@ -95,6 +95,8 @@ Ab Dezember werden diese noch viel häufiger und teilweise auch in Verbindung mi
 
 ![Pokemon Weihnachtsmarkt]({{ site.url }}{{ site.baseurl }}/assets/images/Tokyo/66207019.JPG)
 
+![Godzilla Nikolaus]({{ site.url }}{{ site.baseurl }}/assets/images/Tokyo/66206812.JPG)
+
 Wie in Japan üblich, gibt es hier eine unglaubliche Anzahl an Schreinen und Tempeln in allen Größen.
 
 ![Schrein]({{ site.url }}{{ site.baseurl }}/assets/images/Tokyo/66206376.JPG)
