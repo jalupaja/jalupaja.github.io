@@ -16,6 +16,11 @@ Sehr wichtig in der Geschichte von Aizu ist natürlich die Burg, die nach dem An
 
 ![Castle mit Akabeko]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204282.JPG)
 
+In der dazugehörige, wiederaufgebaute Samuraischule kann heute noch besucht werden um die strengen Regeln der alten Elite Japans zu erfahren.
+
+![Nisshinkan Samuraischule]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204640.JPG)
+![Samurai Regeln]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204636.JPG)
+
 Natürlich gibt es in Aizuwakamatsu auch wieder einen sehr schönen Garten mit etwas Geschichte.
 <!-- schöner Park in dem sowohl die Herrscher vor der Auslöschung der Samurai gegangen als auch die Angreifer während Krieg gegen Samurai... -->
 
@@ -55,7 +60,7 @@ In der näheren Umgebung gibt es sowohl eine 57 m hohe Buddha Statue, in die man
 ![Schiff am See]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204464.JPG)
 
 Nachdem die Stadt von vielen stark bewachsenen Bergen und runden Hügel umschlossen ist, darf man hier sehr viel Bergauf Radeln oder durch Tunnel Zug fahren.
-Das hat aber natürlich auch den Vorteil eines sehr guten Ausblicks auf die Stadt.
+Das hat aber natürlich auch den Vorteil eines sehr guten Ausblicks auf die Stadt und Natur.
 
 ![runde Hügel]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66203550.JPG)
 
@@ -64,6 +69,14 @@ Das hat aber natürlich auch den Vorteil eines sehr guten Ausblicks auf die Stad
 ![Ausblick auf Stadt 2]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66203610.JPG)
 
 ![Ausblick bei Sonnenuntergang]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204483.JPG)
+
+![Ausblick auf schöne Brücke]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66205442.jpg)
+
+![Ausblick bei schöne Brücke mit Zug]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66205476.jpg)
+
+![Ausblick bei schöne Brücke mit Zug von der anderen Seite]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66205476.jpg)
+
+![Ausblick auf dem Weg nach Ouchi-juku]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66205562.jpg)
 
 Während die meisten alten Gebäude in Aizuwakamatsu wiederaufgebaut sind gibt es kleines schönes Dorf in den Bergen mit dem Namen Ouchi-juku.
 Hier werden die alten Häuser noch sehr traditionell instand gehalten.
@@ -74,4 +87,3 @@ Mittlerweile ist das Dorf eine sehr touristische Straße mit Restaurants und Sou
 ![Ouchi-juku]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204260.JPG)
 
 ![Ouchi-juku zu Bergen]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204265.JPG)
-
