@@ -21,6 +21,7 @@ Sehr wichtig in der Geschichte von Aizu ist natürlich die Burg, die nach dem An
 In der dazugehörige, wiederaufgebaute Samuraischule Nisshinkan kann heute noch besucht werden um die strengen Regeln der alten Elite Japans zu erfahren.
 
 ![Nisshinkan Samuraischule]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204640.JPG)
+
 ![Samurai Regeln]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204636.JPG)
 
 Natürlich gibt es in Aizuwakamatsu auch wieder einen sehr schönen Garten mit etwas Geschichte.
@@ -76,7 +77,7 @@ Das hat aber natürlich auch den Vorteil eines sehr guten Ausblicks auf die Stad
 
 ![Ausblick bei schöne Brücke mit Zug]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66205476.jpg)
 
-![Ausblick bei schöne Brücke mit Zug von der anderen Seite]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66205476.jpg)
+![Ausblick bei schöne Brücke mit Zug von der anderen Seite]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66205530.jpg)
 
 ![Ausblick auf dem Weg nach Ouchi-juku]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66205562.jpg)
 

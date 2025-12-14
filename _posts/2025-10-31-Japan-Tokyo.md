@@ -77,7 +77,7 @@ Als Auszeit gibt es zum Glück viele schöne Gärten und Parks.
 In Japan gibt es im ganzen Jahr häufig Lichtershows.
 Ab Dezember werden diese noch viel häufiger und teilweise auch in Verbindung mit Weihnachtsmärkten.
 
-![beleuchtete Bäume]({{ site.url }}{{ site.baseurl }}/assets/images/Tokyo/66205952.JPG)
+![beleuchtete Bäume]({{ site.url }}{{ site.baseurl }}/assets/images/Tokyo/66205958.JPG)
 
 ![beleuchtetes Hochhaus]({{ site.url }}{{ site.baseurl }}/assets/images/Tokyo/66206030.JPG)
 
