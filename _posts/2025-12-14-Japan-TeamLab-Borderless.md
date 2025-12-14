@@ -29,8 +29,9 @@ Es lohnt sich aber nach allen zu suchen und sie waren für mich das Highlight de
 
 ![blaue hängende Kugel mit Umgebung]({{ site.url }}{{ site.baseurl }}/assets/images/TeamLab-Borderless/66206330.JPG)
 
-![rote hängende Kugel]({{ site.url }}{{ site.baseurl }}/assets/images/TeamLab-Borderless/66206330.JPG)
+![rote hängende Kugel]({{ site.url }}{{ site.baseurl }}/assets/images/TeamLab-Borderless/66206338.JPG)
 
+![rote hängende Kugel]({{ site.url }}{{ site.baseurl }}/assets/images/TeamLab-Borderless/66206339.JPG)
 
 Auch wenn ich ein Englisches Teehaus etwas unerwartet in Japan fand, war es doch sehr schön gemacht.
 Der Tee wurde in eine aufblühende Blüte verwandelt, die zerfiel und wieder neu erblüte, wenn die Schale versetzt wurde.
