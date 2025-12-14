@@ -12,7 +12,7 @@ Auf dem gleichen Berg gibt es unabhängig davon noch einen sehr speziellen Tempe
 
 Sehr wichtig in der Geschichte von Aizu ist natürlich die Burg, die nach dem Angriff wieder aufgebaut wurde.
 
-![Burg]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204287.JPG)
+![Burg]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66205793.JPG)
 
 ![Castle mit Akabeko]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204282.JPG)
 
