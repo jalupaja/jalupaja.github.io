@@ -1,3 +1,5 @@
+> Update 2025-12-14: Nisshinkan, Natur-Bilder
+
 Aizu ist ein ländliches Gebiet, mitten in Japan, umringt von Bergen.
 
 Es gibt sehr viel schöne Natur und zusätzlich erstaunlich viel zu sehen, zumindest im Vergleich zum besuchten [Koriyama]({{ site.url }}{{ site.baseurl }}/Japan-Koriyama) und [Niigata]({{ site.url }}{{ site.baseurl }}/Japan-Niigata).
@@ -16,7 +18,7 @@ Sehr wichtig in der Geschichte von Aizu ist natürlich die Burg, die nach dem An
 
 ![Castle mit Akabeko]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204282.JPG)
 
-In der dazugehörige, wiederaufgebaute Samuraischule kann heute noch besucht werden um die strengen Regeln der alten Elite Japans zu erfahren.
+In der dazugehörige, wiederaufgebaute Samuraischule Nisshinkan kann heute noch besucht werden um die strengen Regeln der alten Elite Japans zu erfahren.
 
 ![Nisshinkan Samuraischule]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204640.JPG)
 ![Samurai Regeln]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204636.JPG)
