@@ -3,18 +3,18 @@ Da in Fukushima eine kleine Messe von Handwerkern war, verbrachte ich dann doch 
 
 In und um Fukushima Stadt ist es sehr bergig was zu schönen Ausblicken und Spaziergängen führen kann.
 
-![Berge in der Umgebung]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66205623.jpg)
+![Berge in der Umgebung]({{ site.url }}{{ site.baseurl }}/assets/images/Fukushima/66205623.jpg)
 
-![Ausblick auf Fukushima Stadt]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66205625.jpg)
+![Ausblick auf Fukushima Stadt]({{ site.url }}{{ site.baseurl }}/assets/images/Fukushima/66205625.jpg)
 
-![Ausblick auf Fukushima Stadt 2]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66205628.jpg)
+![Ausblick auf Fukushima Stadt 2]({{ site.url }}{{ site.baseurl }}/assets/images/Fukushima/66205628.jpg)
 
-![Park Eingang]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66205641.jpg)
+![Park Eingang]({{ site.url }}{{ site.baseurl }}/assets/images/Fukushima/66205641.jpg)
 
-![Park]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66205654.jpg)
+![Park]({{ site.url }}{{ site.baseurl }}/assets/images/Fukushima/66205654.jpg)
 
-![Ausblick auf weiteren Teil von Fukushima Stadt]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66205659.jpg)
+![Ausblick auf weiteren Teil von Fukushima Stadt]({{ site.url }}{{ site.baseurl }}/assets/images/Fukushima/66205659.jpg)
 
 Es gibt auch einen kleinen Stadtteil mit netten Geschäften und Restaurants, zu dem ich leider zu spät kam.
 
-![Turm bei Nacht]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66205680.jpg)
+![Turm bei Nacht]({{ site.url }}{{ site.baseurl }}/assets/images/Fukushima/66205680.jpg)
