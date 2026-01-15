@@ -38,6 +38,9 @@ Laut der lustigeren der zwei Entstehungsgeschichten (laut [Wikipedia](https://en
 
 ![Akabeko Girl]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu-Uni/66203771.JPG)
 
+Nachdem eine Kuh für einzelne zu langweilig ist, gibt wurde eine Anime-Version erstellt, das Akabeko-Girl (oben).
+[@the_crafting_quest](https://www.instagram.com/the_crafting_quest/) hat aus diesem Bild dann einen wunderschöne gehäkelte Figur gehäkelt:
+
 ![großes Akabeko mit Akabeko Girl]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66209296.JPG)
 
 ![Akabeko Girl großem Akabeko]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66209296.JPG)
