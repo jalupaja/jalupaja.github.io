@@ -1,5 +1,5 @@
 Die Gegend rund um Mt. Fuji ist nicht nur aber schon in großen Teilen durch den Mt. Fuji selbst sehr schön.
-Ein rießiger, fast symmetrischer Vulkan mit einer weißen Spitze und ohne Berge im Hintergrund macht sich schon in jeder Kulisse sehr gut.
+Ein riesiger, fast symmetrischer Vulkan mit einer weißen Spitze und ohne Berge im Hintergrund macht sich schon in jeder Kulisse sehr gut.
 Ich hab mich hier für die Koulisse mit einem Shrine auf einem Berg entschieden.
 
 ![Mt. Fuji]({{ site.url }}{{ site.baseurl }}/assets/images/Fuji/66208828.JPG)

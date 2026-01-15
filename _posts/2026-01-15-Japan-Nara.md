@@ -30,11 +30,11 @@ Durch die Kombination der beiden ergeben sich sehr schöne Bilder (auch wenn die
 
 ![Drachenbrunnen]({{ site.url }}{{ site.baseurl }}/assets/images/Nara/66208087.JPG)
 
-![rießiges Eingangstor]({{ site.url }}{{ site.baseurl }}/assets/images/Nara/66208155.JPG)
+![riesiges Eingangstor]({{ site.url }}{{ site.baseurl }}/assets/images/Nara/66208155.JPG)
 
-![rießiger Tempel]({{ site.url }}{{ site.baseurl }}/assets/images/Nara/66208207.JPG)
+![riesiger Tempel]({{ site.url }}{{ site.baseurl }}/assets/images/Nara/66208207.JPG)
 
-![rießige Buddha Statuen in Tempel]({{ site.url }}{{ site.baseurl }}/assets/images/Nara/66208216.JPG)
+![riesige Buddha Statuen in Tempel]({{ site.url }}{{ site.baseurl }}/assets/images/Nara/66208216.JPG)
 
 ![Weg auf Tempelgelände]({{ site.url }}{{ site.baseurl }}/assets/images/Nara/66208328.JPG)
 
