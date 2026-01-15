@@ -1,9 +1,15 @@
+> Update 2026-01-15: Winter-Bilder
 > Update 2025-12-14: Nisshinkan, Natur-Bilder
 
 Aizu ist ein ländliches Gebiet, mitten in Japan, umringt von Bergen.
 
 Es gibt sehr viel schöne Natur und zusätzlich erstaunlich viel zu sehen, zumindest im Vergleich zum besuchten [Koriyama]({{ site.url }}{{ site.baseurl }}/Japan-Koriyama) und [Niigata]({{ site.url }}{{ site.baseurl }}/Japan-Niigata).
 Aber das könnte auch einfach daran liegen, dass ich jetzt hier lebe und damit natürlich viel Zeit hab jede Kleinigkeit anzuschauen.
+
+Mir wurden viele Horror-stories erzählt und vor dem Winter gewarnt.
+Letztes Jahr war der Schnee wohl teilweise über einen Meter hoch und die Züge konnten nicht mehr fahren, wodurch man ohne Auto (oder Bus) in der Region gefangen ist.
+Das musste ich dieses Jahr (noch) nicht erleben.
+Es gibt zwar häufig kleine Schneestürme, wodurch das raus gehen erschwert wird, aber nur mit Schneemengen bis maximal 20 cm.
 
 Es gibt viele Geschichten zu den Samurai, nachdem Aizu der letzte Samuraistandort war.
 Zusätzlich ist der letzte Kampf Weltbekannt, sodass damals selbst Mussolini und deutsche Nazis kleine Statuen geschickt hatten, um den Mut von jugendlichen Samurai zu feiern.
@@ -16,7 +22,9 @@ Sehr wichtig in der Geschichte von Aizu ist natürlich die Burg, die nach dem An
 
 ![Burg]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66205793.JPG)
 
-![Castle mit Akabeko]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204282.JPG)
+![Burg mit Akabeko]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204282.JPG)
+
+![Burg im Winter]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66209318.JPG)
 
 In der dazugehörige, wiederaufgebaute Samuraischule Nisshinkan kann heute noch besucht werden um die strengen Regeln der alten Elite Japans zu erfahren.
 
@@ -24,14 +32,30 @@ In der dazugehörige, wiederaufgebaute Samuraischule Nisshinkan kann heute noch 
 
 ![Samurai Regeln]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204636.JPG)
 
-Natürlich gibt es in Aizuwakamatsu auch wieder einen sehr schönen Garten mit etwas Geschichte.
+Wie oben bei Bildern der Burg schonmal gesehen, findet man hier in Aizu (und überall von Tokyo bis Sendai) häufig das Maskottchen der Region: Akabeko (deutsch: rote Kuh).
+In Japan braucht natürlich alles ein Maskottchen und damit auch jede Region.
+Laut der lustigeren der zwei Entstehungsgeschichten (laut [Wikipedia](https://en.wikipedia.org/wiki/Akabeko)) gab es eine Kuh, die nach dem Aufbau eines Tempels in der Region nicht mehr davon weg wollte, bis sie zu Stein wurde.
+
+![Akabeko Girl]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu-Uni/66203771.JPG)
+
+![großes Akabeko mit Akabeko Girl]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66209296.JPG)
+
+![Akabeko Girl großem Akabeko]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66209296.JPG)
+
+Natürlich gibt es in Aizuwakamatsu auch wieder einen sehr schönen Garten mit etwas Geschichte aus der Samurai Zeit.
 <!-- schöner Park in dem sowohl die Herrscher vor der Auslöschung der Samurai gegangen als auch die Angreifer während Krieg gegen Samurai... -->
 
 ![schöner Park]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204301.JPG)
 
 ![schöner Park 2]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204292.JPG)
 
+![schöner Park im Winter]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66209333.JPG)
+
 ![Ente]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204297.JPG)
+
+![Ente im Winter]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66209344.JPG)
+
+![viele Enten im Winter]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66209353.JPG)
 
 Beim fahren durch die größte Stadt in Aizu, Aizuwakamatsu kommt man zwangsweise an Feldern oder Friedhöfen vorbei, die die Quadratmetergröße von Aizu etwas erklärt.
 Bei der Fahrt von der Universität zur älteren Einkaufsstraße gibt es zwei Möglichkeiten.
@@ -66,6 +90,8 @@ Nachdem die Stadt von vielen stark bewachsenen Bergen und runden Hügel umschlos
 Das hat aber natürlich auch den Vorteil eines sehr guten Ausblicks auf die Stadt und Natur.
 
 ![runde Hügel]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66203550.JPG)
+
+![Ausblick aus Zug auf Berg]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66207052.JPG)
 
 ![Ausblick auf Stadt]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204486.JPG)
 
