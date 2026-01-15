@@ -1,3 +1,4 @@
+> Update 2026-01-15: Schreine, Hochhäuser, Skyline
 > Work in Progress. Damit hier mal wieder etwas erscheint, wird der Text nach und nach hinzugefügt.
 
 Als erste Stadt in der ich in Japan war, hatte Osaka doch einiges zu bieten.
@@ -39,6 +40,12 @@ So auch in Osaka.
 
 ![Osaka Castle mit Baum]({{ site.url }}{{ site.baseurl }}/assets/images/Osaka/66203344.JPG)
 
+Natürlich gibt es neben einer Burg auch Schreine
+
+![Kuh neben Schrein]({{ site.url }}{{ site.baseurl }}/assets/images/Osaka/66208470.JPG)
+
+![Osaka Park mit Schrein]({{ site.url }}{{ site.baseurl }}/assets/images/Osaka/66203391.JPG)
+
 Ein Teilschuld, warum ich vor Japan eine Kamera gekauft habe haben Neon Schilder.
 Immer wenn ich an Japan denke gehören für mich die beleuchteten Straßen bei Nacht dazu.
 Am schönsten finde ich die kleinen Gassen aber die riesigen Straßen schauen natürlich toll aus.
@@ -49,13 +56,22 @@ Am schönsten finde ich die kleinen Gassen aber die riesigen Straßen schauen na
 
 ![Mall bei Nacht]({{ site.url }}{{ site.baseurl }}/assets/images/Osaka/66203365.JPG)
 
-(es gibt ein Meer)
-<!-- Meer -->
+Osaka ist eine Großstadt und hat damit viele hohe Gebäude (und seltsamen), die zu einem schönen Skyline, vor allem bei Nacht führen.
+
+![Verspiegeltes Hochhaus]({{ site.url }}{{ site.baseurl }}/assets/images/Osaka/66208463.JPG)
+
+![Riesenrad im Gebäude]({{ site.url }}{{ site.baseurl }}/assets/images/Osaka/66208466.JPG)
+
+![Aussicht auf Osaka bei Nacht]({{ site.url }}{{ site.baseurl }}/assets/images/Osaka/66208473.JPG)
+
+![Aussicht auf Osaka bei Nacht 2]({{ site.url }}{{ site.baseurl }}/assets/images/Osaka/66208501.JPG)
+
+Osaka liegt am Meer:
+
 ![Osaka Port]({{ site.url }}{{ site.baseurl }}/assets/images/Osaka/66203403.JPG)
+
+und hat mehrere Museen, hier ein Freilichtmuseum:
 
 ![Osaka alte Häuser im Museum]({{ site.url }}{{ site.baseurl }}/assets/images/Osaka/66203410.JPG)
 
-
-<!-- wo anders hin -->
-<!-- ![Osaka Park mit Schrein]({{ site.url }}{{ site.baseurl }}/assets/images/Osaka/66203391.JPG) -->
 
