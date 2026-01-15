@@ -13,15 +13,15 @@ Es ist auch eine große und sehr Touristische Stadt.
 
 ![voller Eingang zu Tempel]({{ site.url }}{{ site.baseurl }}/assets/images/Kyoto/66208416.JPG)
 
-![Turm auf Tempelgelände]({{ site.url }}{{ site.baseurl }}/assets/images/Kyoto/66208416.JPG)
+![Ausblick von Tempel auf Stadt]({{ site.url }}{{ site.baseurl }}/assets/images/Kyoto/66208420.JPG)
+
+![Turm auf Tempelgelände]({{ site.url }}{{ site.baseurl }}/assets/images/Kyoto/66208425.JPG)
 
 ![Lampen auf Tempelgelände bei Nacht]({{ site.url }}{{ site.baseurl }}/assets/images/Kyoto/66208432.JPG)
 
 ![Tempelgelände bei Nacht]({{ site.url }}{{ site.baseurl }}/assets/images/Kyoto/66208440.JPG)
 
 ![weiterer Turm auf Tempelgelände bei Nacht]({{ site.url }}{{ site.baseurl }}/assets/images/Kyoto/66208459.JPG)
-
-![Ausblick von Tempel auf Stadt]({{ site.url }}{{ site.baseurl }}/assets/images/Kyoto/66208416.JPG)
 
 ![Ausblick von Tempel auf Stadt bei Nacht]({{ site.url }}{{ site.baseurl }}/assets/images/Kyoto/66208438.JPG)
 

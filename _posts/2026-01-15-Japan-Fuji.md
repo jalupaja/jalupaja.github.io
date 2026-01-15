@@ -8,11 +8,11 @@ Ich hab mich hier für die Koulisse mit einem Shrine auf einem Berg entschieden.
 
 ![Blick durch ein Tori Tor]({{ site.url }}{{ site.baseurl }}/assets/images/Fuji/66208828.JPG)
 
-![Mt. Fuji mit Turm]({{ site.url }}{{ site.baseurl }}/assets/images/Fuji/66208856_edit.JPG)
+![Mt. Fuji mit Turm]({{ site.url }}{{ site.baseurl }}/assets/images/Fuji/66208856_edit.jpg)
 
-![Mt. Fuji hinter Turm]({{ site.url }}{{ site.baseurl }}/assets/images/Fuji/66208885_edit.JPG)
+![Mt. Fuji hinter Turm]({{ site.url }}{{ site.baseurl }}/assets/images/Fuji/66208885_edit.jpg)
 
-![Mt. Fuji neben Turm]({{ site.url }}{{ site.baseurl }}/assets/images/Fuji/66208889_edit.JPG)
+![Mt. Fuji neben Turm]({{ site.url }}{{ site.baseurl }}/assets/images/Fuji/66208889_edit.jpg)
 
 ![Drachen-wasserspender]({{ site.url }}{{ site.baseurl }}/assets/images/Fuji/66208899.JPG)
 

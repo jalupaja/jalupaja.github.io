@@ -33,7 +33,7 @@ War jetzt nicht besonders interessant, weil die meisten Gebäude nicht besonders
 
 ![Wachturm]({{ site.url }}{{ site.baseurl }}/assets/images/Tokyo/66209243.JPG)
 
-![Ausblick auf Stadt vom Palastgelände]({{ site.url }}{{ site.baseurl }}/assets/images/Tokyo/66209248.JPG)
+![Ausblick auf Stadt vom Palastgelände]({{ site.url }}{{ site.baseurl }}/assets/images/Tokyo/66209249.JPG)
 
 ![weitere Wachturm]({{ site.url }}{{ site.baseurl }}/assets/images/Tokyo/66209250.JPG)
 
@@ -88,7 +88,6 @@ und überall sehr sehr viele Touristen.
 
 ![Bar-Gasse]({{ site.url }}{{ site.baseurl }}/assets/images/Tokyo/66208743.JPG)
 
-
 Aber nirgendwo so viele, wie auf dem berühmten Shibuya Crossing:
 
 ![Shibuya Crossing]({{ site.url }}{{ site.baseurl }}/assets/images/Tokyo/66205989.JPG)
@@ -134,7 +133,7 @@ Ab Dezember werden diese noch viel häufiger und teilweise auch in Verbindung mi
 
 ![Avatar Trailer auf Hochhaus]({{ site.url }}{{ site.baseurl }}/assets/images/Tokyo/66206059.jpg)
 
-![Godzilla auf Hochhaus]({{ site.url }}{{ site.baseurl }}/assets/images/Tokyo/66208752.jpg)
+![Godzilla auf Hochhaus]({{ site.url }}{{ site.baseurl }}/assets/images/Tokyo/66208752.JPG)
 
 ![beleuchteter Tempel]({{ site.url }}{{ site.baseurl }}/assets/images/Tokyo/66206769.JPG)
 

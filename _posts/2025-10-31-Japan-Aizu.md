@@ -3,10 +3,10 @@
 
 Aizu ist ein ländliches Gebiet, mitten in Japan, umringt von Bergen.
 
-Es gibt sehr viel schöne Natur und zusätzlich erstaunlich viel zu sehen, zumindest im Vergleich zum besuchten [Koriyama]({{ site.url }}{{ site.baseurl }}/Japan-Koriyama) und [Niigata]({{ site.url }}{{ site.baseurl }}/Japan-Niigata).
-Aber das könnte auch einfach daran liegen, dass ich jetzt hier lebe und damit natürlich viel Zeit hab jede Kleinigkeit anzuschauen.
+Es gibt sehr viel schöne Natur und zusätzlich erstaunlich viel zu sehen, zumindest im Vergleich zum oft besuchten [Koriyama]({{ site.url }}{{ site.baseurl }}/Japan-Koriyama) und [Niigata]({{ site.url }}{{ site.baseurl }}/Japan-Niigata).
+Aber das könnte auch einfach daran liegen, dass ich jetzt hier lebe und damit natürlich viel Zeit habe, jede Kleinigkeit anzuschauen.
 
-Mir wurden viele Horror-stories erzählt und vor dem Winter gewarnt.
+Mir wurden viele Horror-Stories erzählt und vor dem Winter gewarnt.
 Letztes Jahr war der Schnee wohl teilweise über einen Meter hoch und die Züge konnten nicht mehr fahren, wodurch man ohne Auto (oder Bus) in der Region gefangen ist.
 Das musste ich dieses Jahr (noch) nicht erleben.
 Es gibt zwar häufig kleine Schneestürme, wodurch das raus gehen erschwert wird, aber nur mit Schneemengen bis maximal 20 cm.
@@ -38,12 +38,12 @@ Laut der lustigeren der zwei Entstehungsgeschichten (laut [Wikipedia](https://en
 
 ![Akabeko Girl]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu-Uni/66203771.JPG)
 
-Nachdem eine Kuh für einzelne zu langweilig ist, gibt wurde eine Anime-Version erstellt, das Akabeko-Girl (oben).
-[@the_crafting_quest](https://www.instagram.com/the_crafting_quest/) hat aus diesem Bild dann einen wunderschöne gehäkelte Figur gehäkelt:
+Nachdem eine Kuh für einzelne zu langweilig ist, wurde eine Anime-Version erstellt, das Akabeko-Girl (oben).
+[@the_crafting_quest](https://www.instagram.com/the_crafting_quest/) hat aus diesem Bild dann eine Figur gehäkelt:
 
 ![großes Akabeko mit Akabeko Girl]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66209296.JPG)
 
-![Akabeko Girl großem Akabeko]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66209296.JPG)
+![Akabeko Girl großem Akabeko]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66209306.JPG)
 
 Natürlich gibt es in Aizuwakamatsu auch wieder einen sehr schönen Garten mit etwas Geschichte aus der Samurai Zeit.
 <!-- schöner Park in dem sowohl die Herrscher vor der Auslöschung der Samurai gegangen als auch die Angreifer während Krieg gegen Samurai... -->

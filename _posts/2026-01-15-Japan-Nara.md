@@ -24,7 +24,7 @@ Durch die Kombination der beiden ergeben sich sehr schöne Bilder (auch wenn die
 
 ![Reh vor Eingangstor]({{ site.url }}{{ site.baseurl }}/assets/images/Nara/66208199.JPG)
 
-![großer Shrine]({{ site.url }}{{ site.baseurl }}/assets/images/Nara/66208338.JPG)
+![großer Shrine]({{ site.url }}{{ site.baseurl }}/assets/images/Nara/66208046.JPG)
 
 ![kleinerer Turm]({{ site.url }}{{ site.baseurl }}/assets/images/Nara/66208058.JPG)
 
