@@ -1,3 +1,4 @@
+> Update 2026-01-31: mehr Winter-Bilder
 > Update 2026-01-15: Winter-Bilder
 > Update 2025-12-14: Nisshinkan, Natur-Bilder
 
@@ -17,6 +18,8 @@ Diese Geschichte hört man in der ganzen Präfektur Fukushima immer wieder und d
 Auf dem gleichen Berg gibt es unabhängig davon noch einen sehr speziellen Tempel, der eine Wendeltreppe nach oben und eine nach unten hat,
 
 ![Sazaedo Tempel]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66203621.JPG)
+
+![Samurai Statue im Schnee]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66209515.JPG)
 
 Sehr wichtig in der Geschichte von Aizu ist natürlich die Burg, die nach dem Angriff wieder aufgebaut wurde.
 
@@ -44,6 +47,8 @@ Nachdem eine Kuh für einzelne zu langweilig ist, wurde eine Anime-Version erste
 ![großes Akabeko mit Akabeko Girl]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66209296.JPG)
 
 ![Akabeko Girl großem Akabeko]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66209306.JPG)
+
+![Akabeko im Schnee]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66209521.JPG)
 
 Natürlich gibt es in Aizuwakamatsu auch wieder einen sehr schönen Garten mit etwas Geschichte aus der Samurai Zeit.
 <!-- schöner Park in dem sowohl die Herrscher vor der Auslöschung der Samurai gegangen als auch die Angreifer während Krieg gegen Samurai... -->
@@ -75,7 +80,11 @@ Das ist zwar Eigentlich nur das erste Stock von einem Geschäft aber sehr witzig
 
 ![älterer Stadtteil]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66203529.JPG)
 
-In der näheren Umgebung gibt es sowohl eine 57 m hohe Buddha Statue, in die man auf 40 m auch selbst hoch gehen kann und die von einem schönen Park umringt ist, als auch den dritt größten See Japans.
+In der näheren Umgebung gibt es eine Region mit mehreren Onsen, eine 57 m hohe Buddha Statue in die man auf 40 m auch selbst hoch gehen kann und die von einem schönen Park umringt ist und den dritt größten See Japans.
+
+![Häuser in Onsen Region bei Nacht]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66209360.JPG)
+
+![Hotel in Onsen Region bei Nacht]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66209362.JPG)
 
 ![Turm im Park]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204619.JPG)
 
@@ -95,6 +104,8 @@ Das hat aber natürlich auch den Vorteil eines sehr guten Ausblicks auf die Stad
 ![runde Hügel]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66203550.JPG)
 
 ![Ausblick aus Zug auf Berg]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66207052.JPG)
+
+![Ausblick aus Zug auf Winterwald]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66209406.JPG)
 
 ![Ausblick auf Stadt]({{ site.url }}{{ site.baseurl }}/assets/images/Aizu/66204486.JPG)
 
