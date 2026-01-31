@@ -1,6 +1,7 @@
 > Work in Progress. Damit hier mal wieder etwas erscheint, wird der Text nach und nach hinzugefügt.
 
 > 2026-01-15: insgesamt mehr Bilder, Yokohama in eigenen Artikel geschoben
+
 > 2025-12-14: major update
 
 Mit Tokyo (Deutsch ist Tokio aber das finde ich komisch) als größte Stadt Japans konnte ich hier noch am wenigsten Zeit verbringen.

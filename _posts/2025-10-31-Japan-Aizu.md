@@ -1,5 +1,7 @@
 > Update 2026-01-31: mehr Winter-Bilder
+
 > Update 2026-01-15: Winter-Bilder
+
 > Update 2025-12-14: Nisshinkan, Natur-Bilder
 
 Aizu ist ein ländliches Gebiet, mitten in Japan, umringt von Bergen.

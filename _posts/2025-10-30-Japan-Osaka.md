@@ -1,4 +1,5 @@
 > Update 2026-01-15: Schreine, Hochhäuser, Skyline
+
 > Work in Progress. Damit hier mal wieder etwas erscheint, wird der Text nach und nach hinzugefügt.
 
 Als erste Stadt in der ich in Japan war, hatte Osaka doch einiges zu bieten.
