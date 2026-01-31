@@ -1,6 +1,6 @@
 > Update 2026-01-31: Fukushima Disaster
 
-= Fukushima Stadt
+# Fukushima Stadt
 
 Nachdem mir gesagt wurde, dass es in Fukushima Stadt weniger zu sehen gibt als in [Koriyama]({{ site.url }}{{ site.baseurl }}/Japan-Koriyama), da man dort wenigstens gut Einkaufen gehen konnte und ich in Koriyama tatsächlich relativ wenig interessantes finden konnte, hatte ich keine großen Hoffnungen für Fukushima.
 Da in Fukushima eine kleine Messe von Handwerkern war, verbrachte ich dann doch einen einen Tag dort und war überrascht.
@@ -23,7 +23,7 @@ Es gibt auch einen kleinen Stadtteil mit netten Geschäften und Restaurants, zu 
 
 ![Turm bei Nacht]({{ site.url }}{{ site.baseurl }}/assets/images/Fukushima/66205680.jpg)
 
-= Fukushima Disaster
+# Fukushima Disaster
 
 Wofür Fukushima bekannt ist, ist natürlich nicht die Stadt, sondern das Erdbeben 2011 mit einem darauffolgendem Tsunami und Atomunglück.
 Modelle, Bilder, echte Ausstellungsstücke und sogar Comics im dazugehörigen Museum zeigen sehr Ausdrücklich die Folgen, die ein Erdbeben und Tsunami haben können.
@@ -47,8 +47,6 @@ Hier sieht man besonders gut die Kraft einer so hohen Welle.
 Dank der Lehrer haben alle Schüler überlebt, weil sie nach dem Erdbeben auf einen Berg gegangen sind und so dem Tsunami entgehen konnten.
 
 ![kaputte Schule mit angezeigter Wasserhöhe]({{ site.url }}{{ site.baseurl }}/assets/images/Fukushima/66209487.JPG)
-
-![kaputte Schule mit angezeigter Wasserhöhe]({{ site.url }}{{ site.baseurl }}/assets/images/Fukushima/66209463.JPG)
 
 ![zerstörtes Klassenzimmer]({{ site.url }}{{ site.baseurl }}/assets/images/Fukushima/66209467.JPG)
 
@@ -78,7 +76,7 @@ Bis die Aufräumarbeiten zu einem Abriss kommen.
 
 ![kaputter Family shop]({{ site.url }}{{ site.baseurl }}/assets/images/Fukushima/66209428.JPG)
 
-![heruntergekommenes Wohnhaus]({{ site.url }}{{ site.baseurl }}/assets/images/Fukushima/66209428.JPG)
+![heruntergekommenes Wohnhaus]({{ site.url }}{{ site.baseurl }}/assets/images/Fukushima/66209451.JPG)
 
 Und vom weiten sieht man das Atomkraftwerk, erkennbar an den Kränen.
 
