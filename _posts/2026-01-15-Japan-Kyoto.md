@@ -45,9 +45,9 @@ Dazu gibt es sowohl innerhalb als auch außerhalb schöne Gärten und Natur wie 
 
 ![Tori-Tore 2]({{ site.url }}{{ site.baseurl }}/assets/images/Kyoto/66200227.JPG)
 
-![Tori-Tore 3]({{ site.url }}{{ site.baseurl }}/assets/images/Kyoto/66200257.JPG)
+![Tori-Tore 3]({{ site.url }}{{ site.baseurl }}/assets/images/Kyoto/66200283.JPG)
 
-![Tori-Tore 4]({{ site.url }}{{ site.baseurl }}/assets/images/Kyoto/66200283.JPG)
+![Tori-Tore 4]({{ site.url }}{{ site.baseurl }}/assets/images/Kyoto/66200257.JPG)
 
 <!-- TODO somewhere else -->
 <!-- ![eingebauter Baum]({{ site.url }}{{ site.baseurl }}/assets/images/Kyoto/66200316.JPG) -->

@@ -85,7 +85,7 @@ Ich will hier mal genauer die unglaublichen Folgen der Atombombe in Nagasaki erk
 In den ersten Wochen sind ca. 70000 Menschen von den direkten Folgen der Atombombe in Nagasaki gestorben.
 Die Atombombe wurde 500 m über dem Boden explodiert.
 Die resultierende Hitzewelle erhitzt den Bode auf bis zu 4000 Grad und lässt alles in näherem Radius sofort zu Staub zerfallen lassen.
-Flüssigkeiten im Körper sind verdampft und Knochen wurden karbonisiert (TODO).
+Flüssigkeiten im Körper sind verdampft und Knochen wurden karbonisiert.
 In einem Radius bis zu 1200 m war alleine diese Hitzewelle sofort tödlich.
 In einem Radius von 1500 m ist diese Welle immer noch ca. 600 Grad heiß und verbrennt damit Kleidung und Haut aller betroffener Menschen.
 
