@@ -21,7 +21,7 @@ Es gibt hier alles von kleinen Tempelgebäuden bis zu mehreren sehr großen Pal�
 
 ![sehr schön verzierter Raum im Palast]({{ site.url }}{{ site.baseurl }}/assets/images/Seoul/66202775.JPG)
 
-() ![besonderes blaues Dach]({{ site.url }}{{ site.baseurl }}/assets/images/Seoul/66202773.JPG)
+![besonderes blaues Dach]({{ site.url }}{{ site.baseurl }}/assets/images/Seoul/66202773.JPG)
 
 ![Turm neben dem Palast]({{ site.url }}{{ site.baseurl }}/assets/images/Seoul/66202987.JPG)
 
